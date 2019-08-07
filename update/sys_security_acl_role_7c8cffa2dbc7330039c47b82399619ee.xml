@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-07 06:43:43</sys_created_on>
+        <sys_id>7c8cffa2dbc7330039c47b82399619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_377137_santosh_i_santoshinfotech.x_377137_santosh_i.santoshinfotech_user</sys_name>
+        <sys_package display_value="Santosh Infotech Organization" source="x_377137_santosh_i">7f20bfe6db87330039c47b823996196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Santosh Infotech Organization">7f20bfe6db87330039c47b823996196a</sys_scope>
+        <sys_security_acl display_value="x_377137_santosh_i_santoshinfotech">f88cffa2dbc7330039c47b82399619df</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7c8cffa2dbc7330039c47b82399619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-07 06:43:43</sys_updated_on>
+        <sys_user_role display_value="x_377137_santosh_i.santoshinfotech_user" name="x_377137_santosh_i.santoshinfotech_user">6c8cffa2dbc7330039c47b82399619bb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

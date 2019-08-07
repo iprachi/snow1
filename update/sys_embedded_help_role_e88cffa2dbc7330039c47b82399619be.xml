@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_377137_santosh_i.santoshinfotech_user" name="x_377137_santosh_i.santoshinfotech_user">6c8cffa2dbc7330039c47b82399619bb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-07 06:43:42</sys_created_on>
+        <sys_id>e88cffa2dbc7330039c47b82399619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6c8cffa2dbc7330039c47b82399619bb</sys_name>
+        <sys_package display_value="Santosh Infotech Organization" source="x_377137_santosh_i">7f20bfe6db87330039c47b823996196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Santosh Infotech Organization">7f20bfe6db87330039c47b823996196a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e88cffa2dbc7330039c47b82399619be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-07 06:43:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
